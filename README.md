@@ -1,8 +1,9 @@
 # Analysis-on-student-survey
+
 This project is aimed at analysing student opinion over current education in colleges.
 The project has been accomplished in 2 stages as:
-1. Survey design and data collection. A survey was created and subsequently distributed among various student groups to obtain the responses. The survey involved collection of data such as:
-  a. Demographic information </br>
+1. Survey design and data collection. A survey was created and subsequently distributed among various student groups to obtain the responses. The survey involved collection of data such as: <br>
+  a. Demographic information <br>
   b. Education details involving current academic year, field of study, and college location among others. <br>
   c. Opinions for teaching methods being predominantly used and their effectiveness, frequency of using online resources and overall quality of education. <br>
   d. Opinions over course diversity, sought after skills for career development, colleges providing adequate skill development opportunities and various other questions aimed at skill development and job readiness. <br>
